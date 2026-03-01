@@ -185,7 +185,7 @@ generalisation.
 ## Project Structure
 
 ```
-titanic-survival-prediction/
+Titanic-Survival-Prediction/
 │
 ├── Mohamed_Tamer_Titanic.ipynb   # Main analysis notebook
 ├── app.py                        # Streamlit prediction application
@@ -196,7 +196,6 @@ titanic-survival-prediction/
 ├── titanic_features.pkl          # Saved ordered feature list
 │
 ├── requirements.txt              # Python dependencies
-├── .gitignore                    # Git ignore rules
 └── README.md                     # Project documentation
 ```
 
